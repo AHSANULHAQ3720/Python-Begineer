@@ -11,7 +11,7 @@ Getting Started
 To get started with the Python tutorials, simply clone this repository to your local machine:
 
 ```python
-// git clone https://github.com/your-username/python-tutorial.git
+git clone https://github.com/your-username/python-tutorial.git
 ```
 
 The tutorials are organized by topic in separate directories. Simply navigate to the directory of your choice and follow the instructions in the README file to get started.
